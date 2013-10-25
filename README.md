@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ActiveRecord TODOs
 
 ## Before You Get Started
@@ -72,3 +73,7 @@ Create a file in the application root directory, e.g., `todo.rb`, to act as your
   </tr>
 </table>
 
+=======
+AR_todo
+=======
+>>>>>>> 5f40f0820ad4a2030d8f51589d515a5936c535cf
